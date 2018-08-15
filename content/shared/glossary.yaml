@@ -78,6 +78,39 @@ irrational:
     expressed as a fraction and is _irrational_
 
 
+# ==============================================================================
+# SEQUENCES
+# ==============================================================================
+
+
+sequence:
+  title: Sequence
+  text: TODO
+
+sequence-term:
+  title: Terms of a Sequence
+  text: TODO
+
+sequence-recursive:
+  title: Recursie Formula
+  text: TODO
+
+sequence-explicit:
+  title: Explicit Formula
+  text: TODO
+
+arithmetic-sequence:
+  title: Arithmetic Sequence
+  text: An __arithmetic sequence__ (sometimes called __arithmetic progression__)
+    is a sequence of numbers in which the difference _d_ between consecutive
+    terms is always the same.
+
+geometric-sequence:
+  title: Geometric Sequence
+  text: A __geometric sequence__ (sometimes called __geometric progression__)
+    is a sequence of numbers in which the ratio _r_ between consecutive terms
+    is always the same.
+
 
 # ==============================================================================
 # GEOMETRY

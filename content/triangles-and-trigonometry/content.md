@@ -1673,7 +1673,7 @@ started from sea level at the beach, measured thousands of kilometers of
 distance, built surveying towers across the entire country and even accounted
 for the curvature of Earth.
 
-    figure: x-media(src="images/himalaya.jpg" width=760 height=320 credit="© Depositphotos, gagarych")
+    figure: x-media(src="images/himalaya.jpg" width=760 height=320)
 
 ---
 > id: applications
@@ -1702,17 +1702,18 @@ can carry heavy weights.
 
 {.caption} A “Truss bridge” is supported by triangular bars
 ::: column(width=200)
-    x-media(src="images/pylon.jpg" credit="© Depositphotos, leungchopan" width=200 height=200 lightbox)
+    x-media(src="images/pylon.jpg" width=200 height=200 lightbox)
 
 {.caption} Triangles in high-voltage electricity Pylons
 ::: column(width=200)
-    x-media(src="images/bike.jpg" credit="© Depositphotos, blasbike" width=200 height=200 lightbox)
+    x-media(src="images/bike.jpg" width=200 height=200 lightbox)
 
 {.caption} Even bikes use triangles for stability.
 :::
 
 ---
 > id: applications-2
+> goals: video
 
 Triangles are also the simplest polygon, with the fewest sides. This makes them
 particularly well suited to approximating complex curved surfaces. This is done
@@ -1742,7 +1743,7 @@ calculate their colour and texture.
     x-media(src="images/dolphin.jpg" width=220 height=135)
 :::
 
-    figure: x-media(src="images/tiger.mp4" width=480 height=270 credit="© UCTV, The STEAM Channel")
+    figure: x-video(src="images/tiger.mp4" width=480 height=270 credit="© UCTV, The STEAM Channel")
     //- src: https://www.youtube.com/watch?v=Y9PYzdFsVio
 
 ---
